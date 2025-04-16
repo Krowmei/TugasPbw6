@@ -59,7 +59,7 @@ input[type="submit"]:hover {
 }
 
 .output-container {
-    background-color: rgba(255, 255, 255, 0.95); /* Lebih terang agar teks lebih jelas */
+    background-color: rgba(255, 255, 255, 0.95);
     max-width: 700px;
     margin: 40px auto;
     padding: 30px;
